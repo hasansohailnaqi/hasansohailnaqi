@@ -1,6 +1,4 @@
-<h1 align="center">“🌌 Navigating the code constellations, I write my own cosmic story.”
-
-Feel free to mix and match these lines or create your own constellation of words! 🚀✨
+<h1 align="center">“🌌 "Transforming ideas into digital masterpieces, built by a team of innovators" 🚀✨
 </h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/1920053-Animated-icon-2.gif">
