@@ -1,9 +1,9 @@
 <h1 align="center">“🌌 "Transforming ideas into digital masterpieces, built by a team of innovators" 🚀✨
 </h1>
 <!-- <h3 align="center">A passionate frontend developer from Pakistan</h3> -->
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/1920053-Animated-icon-2.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/1920053-Animated-icon-2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasansohailnaqi&label=Profile%20views&color=0e75b6&style=flat" alt="msc3.0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasansohailnaqi&label=Profile%20views&color=0e75b6&style=flat" alt="msc3.0" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasansohailnaqi" alt="msc3.0" /></a> </p>
 
