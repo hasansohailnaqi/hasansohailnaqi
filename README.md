@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">⚙️ MetaSolutionCorp (MSC3.0) — Where AI Agents Build the Future</h3>
+<h3 align="center">⚙️ METAASOLUTIONCORPORATION (MSC3.0) — Where AI Agents Build the Future</h3>
 <p align="center">
   <b>Building intelligent systems, real estate innovations, digital branding, and tech ecosystems through agentic AI.</b>
 </p>
@@ -16,11 +16,11 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working at **MetaSolutionCorp | MSC3.0 Studio**
+- 🔭 Currently working at **MSc3.0 | META SOLUTION CORPORATION**
 - 🌱 Learning and building with **Next.js 13**, **React Native**, and **Agentic AI Systems**
 - 👯 Collaborating with **Panaverse DAO** on AI-native architectures
 - 💡 Exploring **Dapr**, **OpenAI Agents SDK**, and **Kubernetes Cloud Ascent**
-- 📫 Contact: **metasolutioncorp@gmail.com**
+- 📫 Contact: **metasolutionscorp@gmail.com**
 
 ---
 
