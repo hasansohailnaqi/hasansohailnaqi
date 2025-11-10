@@ -7,8 +7,19 @@
 </p>
 
 ---
+<!-- ─────────────────────────────── -->
+<!-- 🚀 MSC3.0 Animated Outro Banner -->
+<!-- ─────────────────────────────── -->
 
-<h3 align="center">⚙️ METAASOLUTIONCORPORATION (MSC3.0) — Where AI Agents Build the Future</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MetaSolutionCorp/assets/main/msc3_outro_hybrid.svg" 
+       alt="Join the Future with MSC3.0"
+       width="100%" />
+</p>
+
+---
+
+<h3 align="center">⚙️ META SOLUTION CORPORATION (MSC3.0) — Where AI Agents Build the Future</h3>
 <p align="center">
   <b>Building intelligent systems, real estate innovations, digital branding, and tech ecosystems through agentic AI.</b>
 </p>
@@ -26,7 +37,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:metasolutioncorp@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/></a>
+  <a href="mailto:metasolutionscorp@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/hasansohailnaqi"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/hasansohailnaqi"><img src="https://img.icons8.com/ios-filled/48/00C8FF/github.png" alt="GitHub"/></a>
   <a href="https://x.com/"><img src="https://img.icons8.com/ios-filled/48/00C8FF/twitterx--v1.png" alt="Twitter"/></a>
@@ -77,7 +88,7 @@
 
 ### 🌌 Vision
 > “We don’t just build products — we create digital realities powered by intelligence and imagination.”  
-> **— MetaSolutionCorp (MSC3.0)**
+> **— Meta Solution Corporation (MSC3.0)**
 
 ---
 
@@ -86,7 +97,7 @@
 </p>
 
 <p align="center">
-  <b>🌐 Visit:</b> <a href="https://github.com/MetaSolutionCorp">MetaSolutionCorp</a> | <b>📧 Email:</b> metasolutioncorp@gmail.com
+  <b>🌐 Visit:</b> <a href="https://github.com/MetaSolutionCorp">MetaSolutionCorp</a> | <b>📧 Email:</b> metasolutionscorp@gmail.com
 </p>
 
 ---
