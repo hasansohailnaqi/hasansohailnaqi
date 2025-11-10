@@ -1,7 +1,17 @@
+<!-- ──────────────────────────────────────────────── -->
+<!-- 🌌 MSC3.0 — MetaSolutionCorp GitHub README -->
+<!-- ──────────────────────────────────────────────── -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MetaSolutionCorp/assets/main/msc3.0_tagline_animated.svg" alt="MSC3.0 animated tagline" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00C8FF&size=28&center=true&vCenter=true&width=800&lines=🌌+Transforming+Ideas+into+Digital+Masterpieces;🚀+Powered+by+AI,+Innovation,+and+Creativity;✨+MetaSolutionCorp+|+MSC3.0+Studio" />
 </p>
 
+---
+
+<h3 align="center">⚙️ MetaSolutionCorp (MSC3.0) — Where AI Agents Build the Future</h3>
+<p align="center">
+  <b>Building intelligent systems, real estate innovations, digital branding, and tech ecosystems through agentic AI.</b>
+</p>
 
 ---
 
