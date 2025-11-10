@@ -66,6 +66,11 @@
 </svg>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MetaSolutionCorp/assets/main/msc3.0_tagline_animated.svg" alt="MSC3.0 animated tagline" width="100%" />
+</p>
+
+---
 
 ### 🧠 About Me
 - 🔭 Currently working at **MSc3.0 | META SOLUTION CORPORATION**
