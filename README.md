@@ -1,3 +1,12 @@
+<!-- Light repos (dark banner) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MetaSolutionCorp/assets/main/msc3.0_tagline_dark.svg" width="100%" />
+</p>
+
+<!-- Static fallback -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MetaSolutionCorp/assets/main/msc3.0_tagline_static.svg" width="100%" />
+</p>
 
 <!-- msc3.0_tagline_animated.svg -->
 <svg viewBox="0 0 1200 180" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid slice">
