@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasansohailnaqi/main/msc3.0_tagline.svg"" alt="MSC3.0 tagline" width="100%" />
+  <img src="https://raw.githubusercontent.com/hasansohailnaqi/hasansohailnaqi/refs/heads/main/msc3.0_tagline.svg"" alt="MSC3.0 tagline" width="100%" />
 </p>
 
 
