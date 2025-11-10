@@ -3,7 +3,7 @@
 <!-- ──────────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00C8FF&size=28&center=true&vCenter=true&width=800&lines=🌌+Transforming+Ideas+into+Digital+Masterpieces;🚀+Powered+by+AI,+Innovation,+and+Creativity;✨+MetaSolutionCorp+|+MSC3.0+Studio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00C8FF&size=28&center=true&vCenter=true&width=800&lines=🌌+Transforming+Ideas+into+Digital+Masterpieces;🚀+Powered+by+AI,+Innovation,+and+Creativity;✨+Msc3.0+|+MSC3.0+Cordinator" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <b>🌐 Visit:</b> <a href="https://github.com/MetaSolutionCorp">MetaSolutionCorp</a> | <b>📧 Email:</b> metasolutionscorp@gmail.com
+  <b>🌐 Visit:</b> <a href="https://metasolutioncorp.com">Msc3.0</a> | <b>📧 Email:</b> metasolutionscorp@gmail.com
 </p>
 
 ---
